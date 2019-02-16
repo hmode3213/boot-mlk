@@ -1191,4 +1191,4 @@ client.on('message',  message => {
 
 
 
-client.login('NTQ2MTc2NTkxMTU2NDc3OTky.D0kadA.IhdIolJ6SHc2zBpeh9DmAFo8KQ4'); 
+client.login(''); 
